@@ -1,0 +1,1 @@
+set PYTHONPATH=%PYTHONPATH%;D:/AI/TrainingAlgo/TensorFlow/models/research;D:/AI/TrainingAlgo/TensorFlow/models/research/slim

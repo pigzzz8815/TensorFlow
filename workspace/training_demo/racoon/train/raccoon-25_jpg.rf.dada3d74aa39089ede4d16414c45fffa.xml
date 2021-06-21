@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>raccoon-25_jpg.rf.dada3d74aa39089ede4d16414c45fffa.jpg</filename>
+	<path>D:\AI\TrainingAlgo\TensorFlow\workspace\training_demo\racoon\train\raccoon-25_jpg.rf.dada3d74aa39089ede4d16414c45fffa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>55</ymin>
+			<xmax>215</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
