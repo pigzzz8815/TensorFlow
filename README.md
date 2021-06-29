@@ -14,4 +14,4 @@ Tensorflow2 Object_Detection_Custom *Training method*
 
 
 4. Training  
-: 훈련시작
+: 훈련시작.
